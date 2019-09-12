@@ -1,6 +1,6 @@
 # SROCC SPM Figure 1: Script for producing graphs for each panel in the figure
 # Andrés Alegría (andres.alegria@ipcc-wg2.awi.de)
-# Last update: 2019.08.23
+# Last update: 2019.09.12
 
 # Start by setting R's working directory to where this file is stored, along with the spreadsheet titled SROCC_SPM_figure_1_data_tidy.xlsx
 setwd("~/Dropbox/SROCC_SPM_Figures/SROCC_SPM_figure_1")
